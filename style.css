@@ -3,9 +3,13 @@ body
     text-align: center;
     background-color: darkcyan;
 }
-#h1tag
+.h1tag
 {
     color: white;
  font-size: 100px;
- font-family: 'Pushster', cursive;;
+ font-family: 'Pushster', cursive;
+}
+.giftimg{
+    height: 600px;
+    width: 600px;
 }
